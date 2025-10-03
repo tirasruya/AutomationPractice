@@ -18,8 +18,8 @@ The project is structured with **Page Object Model (POM)** for maintainability a
 
 Currently included / planned test scenarios:
 
-1- ✅ Register User  
-
+✅ Test Case 1: Register User  
+✅ Test Case 2: Login User with correct email and password
 - 🔜 More cases will be added soon  
 
 > 📌 Full reference: [AutomationExercise Test Cases](https://automationexercise.com/test_cases)
@@ -51,7 +51,7 @@ AutomationPractice/
 │       └── java
 │       │   └── testCases    #
 │       │   |   └── TestCase1_RegisterUser
-│       │   |   └── TestCase2_
+│       │   |   └── TestCase2_LoginUserWithCorrectEmailAndPassword
 │       │   └── utility      # Helpers (driver manager, waits, etc.)
 │       │   |   └── BaseDriver
 │       │   |   └── JSONHelper
