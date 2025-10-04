@@ -58,11 +58,14 @@ AutomationPractice/
 │       │   └── data         # Test data
 │       └── resources        # Config files (e.g. properties)
 │       │   └── testData
-│       │   |   └── user1.json 
+│       │   |   └── user1.json
+│       │   |   └── ...
 │
 ├── pom.xml                  # Maven dependencies
 ├── README.md
 └── reports/                 # Reports & screenshots (after run)
+│   └── logs
+│   └── test-recordings
 ```
 
 ---
