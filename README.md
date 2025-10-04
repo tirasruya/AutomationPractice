@@ -20,9 +20,9 @@ Currently included / planned test scenarios:
 
 ✅ Test Case 1: Register User  
 ✅ Test Case 2: Login User with correct email and password
-- 🔜 More cases will be added soon  
+🔜 More cases will be added soon  
 
-> 📌 Full reference: [AutomationExercise Test Cases](https://automationexercise.com/test_cases)
+📌 Full reference: [AutomationExercise Test Cases](https://automationexercise.com/test_cases)
 
 ---
 
